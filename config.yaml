@@ -1,0 +1,7 @@
+num_clusters: 3
+num_iterations: 3
+max_steps: 20
+max_tokens: 2000
+model: "claude-haiku-4-5"
+num_runs: 10
+concurrent: False
